@@ -48,7 +48,7 @@ I am interested in disaggregated memory systems and their supportive technologie
 # Visit
 - Email: hyokeun_lee[at]ncsu.edu
 - LinkedIn: [Link](https://kr.linkedin.com/in/hyokeunlee/en)
-- CV: [Link](https://github.com/harrylee365/website.uploads/blob/gh-pages/My_CV_hklee.pdf)
+- CV: [Link](https://github.com/harrylee365/harrylee365.github.io/blob/master/uploads/My_CV_hklee.pdf)
 
 <!--
 <figure class="fourth">
