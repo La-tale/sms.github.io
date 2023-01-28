@@ -1,0 +1,52 @@
+- title: "PCMCsim: An Accurate Phase-Change Memory Controller Simulator and its Performance Analysis"
+  label: "[C4]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Hyungsuk Kim, Seokbo Shim, Seungyong Lee, Hyuk-Jae Lee, Hyun Kim
+  issue: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+  year: May. 2022
+  tier: "[Acceptance rate: 28.9%]"
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "Analysis of Hardware Prefetchers Suitable for CNN Applications"
+  label: "[C3]"
+  image:
+  description:
+  authors: Hyeong Gi Seong, <u>Hyokeun Lee</u>, Hyun Kim, Hyuk-Jae Lee
+  issue: IEEE/IEIE International Conference on Consumer Electronics-Asia (ICCE-Asia)
+  year: Nov. 2021
+  tier: ""
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "IMDB: A Low-Cost In-Module Disturbance Barrier for Mitigating Write Disturbance Errors in Phase-Change Memory"
+  label: "[C2]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Seungyong Lee, Byeongki Song, Moonsoo Kim Seokbo Shim, Hyuk-Jae Lee, Hyun Kim
+  issue: the 57th Design Automation Conference (DAC, work-in-progress)
+  year: July. 2020
+  tier: ""
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "A Predictie Initialization of Hidden State Parameters in a Hidden Markov Model for Hand Gesture Recognition"
+  label: "[J8]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Seungyong Lee, Byeongki Song, Moonsoo Kim Seokbo Shim, Hyuk-Jae Lee, Hyun Kim
+  issue: IEEE/IEIE International Conference on Consumer Electronics (ICCE-Asia)
+  year: June. 2018
+  tier: ""
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+

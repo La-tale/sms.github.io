@@ -1,0 +1,12 @@
+- title: "SDM: Sharing-based Disaggregated Memory System with Cache Coherent Compute Express Link"
+  label: "[S1]"
+  image: 
+  description:
+  authors: <u>Hyokeun Lee</u>, Kwanseok Choi, Minho Choi, Wonbeom Lee, Hyuk-Jae Lee, Jaewoong Sim
+  issue: the 60th Design Automation Conference (DAC)
+  year: 2023
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+

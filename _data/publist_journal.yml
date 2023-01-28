@@ -1,0 +1,104 @@
+- title: "An In-Module Disturbance Barrier for Mitigating Write Disturbance in Phase-Change Memory"
+  label: "[J8]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Seungyong Lee, Byeongki Song, Moonsoo Kim, Seokbo Shim, Hyuk-Jae Lee, Hyun Kim
+  issue: IEEE Transactions on Computers
+  year: 2022
+  tier: "[SCIE]"
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "A Read Disturbance Tolerant Phase Change Memory System for CNN Inference Workloads"
+  label: "[J7]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Hyuk-Jae Lee, Hyun Kim
+  issue: Journal of Semiconductor Technology and Science
+  year: 2022
+  tier: "[SCIE]"
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "WL-WD: Wear-Leveling Solution to Mitigate Write Disturbance Errors for Phase-Change Memory"
+  label: "[J6]"
+  image:
+  description:
+  authors: Moonsoo Kim, <u>Hyokeun Lee</u>, Hyun Kim, Hyuk-Jae Lee
+  issue: IEEE Access
+  year: 2022
+  tier: "[SCIE]"
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "Evaluation of Various Workloads in Filebench Suitable for Phase-Change Memory"
+  label: "[J5]"
+  image:
+  description:
+  authors: Seungyong Lee, <u>Hyokeun Lee</u>, Hyuk-Jae Lee, Hyun Kim
+  issue: IEIE Transactions on Smart Processing & Computing
+  year: April. 2021
+  tier: "[SCOPUS]"
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "Bit-width Reduction in Write Counters for Wear Leveling in a Phase-Change Memory System"
+  label: "[J4]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Hyunmin Jung, Hyuk-Jae Lee, Hyun Kim
+  issue: IEIE Transactions on Smart Processing & Computing
+  year: Oct. 2020
+  tier: "[SCOPUS]"
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "A Low-Cost and High-Throughput FPGA Implementation of the Retinex Algorithm for Real-Time Video Enhancement"
+  label: "[J3]"
+  image:
+  description:
+  authors: Jinwoo Park, <u>Hyokeun Lee</u>, Boyeal Kim, Dong-Goo Kang, Seung Oh Jin, Hyun Kim, Hyuk-Jae Lee
+  issue: IEEE Transactions on Very Large Scale Integration Systems
+  year: Jan. 2020
+  tier: "[SCIE]"
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "Integration and Boost of a Read-Modify-Write Module in Phase Change Memory System"
+  label: "[J2]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Moonsoo Kim, Hyunchul Kim, Hyun Kim, Hyuk-Jae Lee
+  issue: IEEE Transactions on Computers
+  year: Dec. 2019
+  tier: "[SCIE]"
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
+- title: "HAD-TWL: Hot Address Detection-based Wear Leveling for Phase-Change Memory Systems with Low Latency"
+  label: "[J1]"
+  image:
+  description:
+  authors: Sunwoong Kim, Hyunmin Jung, Woojae Shin, <u>Hyokeun Lee</u>, Hyuk-Jae Lee
+  issue: IEEE Computer Architecture Letters
+  year: July. 2019
+  tier: "[SCIE]"
+  link:
+    url: https://arxiv.org/abs/2205.10346
+    display: arXiv:2205.10346 (2022)
+  highlight: 1
+
