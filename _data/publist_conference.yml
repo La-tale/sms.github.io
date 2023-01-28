@@ -6,9 +6,7 @@
   issue: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
   year: May. 2022
   tier: "[Acceptance rate: 28.9%]"
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: https://ieeexplore.ieee.org/document/9804665
   highlight: 1
 
 - title: "Analysis of Hardware Prefetchers Suitable for CNN Applications"
@@ -19,9 +17,7 @@
   issue: IEEE/IEIE International Conference on Consumer Electronics-Asia (ICCE-Asia)
   year: Nov. 2021
   tier: ""
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: https://ieeexplore.ieee.org/document/9641920
   highlight: 1
 
 - title: "IMDB: A Low-Cost In-Module Disturbance Barrier for Mitigating Write Disturbance Errors in Phase-Change Memory"
@@ -32,9 +28,7 @@
   issue: the 57th Design Automation Conference (DAC, work-in-progress)
   year: July. 2020
   tier: ""
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: https://github.com/harrylee365/website.uploads/blob/gh-pages/DAC2020poster.pdf
   highlight: 1
 
 - title: "A Predictie Initialization of Hidden State Parameters in a Hidden Markov Model for Hand Gesture Recognition"
@@ -45,8 +39,6 @@
   issue: IEEE/IEIE International Conference on Consumer Electronics (ICCE-Asia)
   year: June. 2018
   tier: ""
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: https://ieeexplore.ieee.org/document/8552159
   highlight: 1
 

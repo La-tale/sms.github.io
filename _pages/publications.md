@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Publications"
+title: "HLEE - Publications"
 layout: gridlay
 excerpt: "Allan Lab -- Publications."
 sitemap: false
@@ -19,7 +19,7 @@ permalink: /publications/
 ## Journal Papers
 {% for publi in site.data.publist_journal %}
   {{ publi.label }} {{ publi.authors }} <br />
-  {{ publi.title }} <br />
+  <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
 {% endfor %}
 
@@ -27,7 +27,7 @@ permalink: /publications/
 ## Conference Papers
 {% for publi in site.data.publist_conference %}
   {{ publi.label }} {{ publi.authors }} <br />
-  {{ publi.title }} <br />
+  <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
 {% endfor %}
 

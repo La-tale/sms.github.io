@@ -6,9 +6,7 @@
   issue: IEEE Transactions on Computers
   year: 2022
   tier: "[SCIE]"
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: https://ieeexplore.ieee.org/document/9851925
   highlight: 1
 
 - title: "A Read Disturbance Tolerant Phase Change Memory System for CNN Inference Workloads"
@@ -19,9 +17,7 @@
   issue: Journal of Semiconductor Technology and Science
   year: 2022
   tier: "[SCIE]"
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: http://jsts.org/jsts/ArticleDetail/RD_R/415636
   highlight: 1
 
 - title: "WL-WD: Wear-Leveling Solution to Mitigate Write Disturbance Errors for Phase-Change Memory"
@@ -32,9 +28,7 @@
   issue: IEEE Access
   year: 2022
   tier: "[SCIE]"
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: https://ieeexplore.ieee.org/document/9690899
   highlight: 1
 
 - title: "Evaluation of Various Workloads in Filebench Suitable for Phase-Change Memory"
@@ -45,9 +39,7 @@
   issue: IEIE Transactions on Smart Processing & Computing
   year: April. 2021
   tier: "[SCOPUS]"
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: http://ieiespc.org/ieiespc/ArticleDetail/RD_R/403278
   highlight: 1
 
 - title: "Bit-width Reduction in Write Counters for Wear Leveling in a Phase-Change Memory System"
@@ -58,9 +50,7 @@
   issue: IEIE Transactions on Smart Processing & Computing
   year: Oct. 2020
   tier: "[SCOPUS]"
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: http://ieiespc.org/ieiespc/ArticleDetail/RD_R/399763
   highlight: 1
 
 - title: "A Low-Cost and High-Throughput FPGA Implementation of the Retinex Algorithm for Real-Time Video Enhancement"
@@ -71,9 +61,7 @@
   issue: IEEE Transactions on Very Large Scale Integration Systems
   year: Jan. 2020
   tier: "[SCIE]"
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: https://ieeexplore.ieee.org/document/8832235
   highlight: 1
 
 - title: "Integration and Boost of a Read-Modify-Write Module in Phase Change Memory System"
@@ -84,9 +72,7 @@
   issue: IEEE Transactions on Computers
   year: Dec. 2019
   tier: "[SCIE]"
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: https://ieeexplore.ieee.org/document/8792091
   highlight: 1
 
 - title: "HAD-TWL: Hot Address Detection-based Wear Leveling for Phase-Change Memory Systems with Low Latency"
@@ -97,8 +83,6 @@
   issue: IEEE Computer Architecture Letters
   year: July. 2019
   tier: "[SCIE]"
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+  tlink: https://ieeexplore.ieee.org/document/8766892
   highlight: 1
 
