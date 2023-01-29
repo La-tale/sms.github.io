@@ -8,7 +8,7 @@ permalink: /
 
 # Biography
 
-I am a postdoctoral researcher at the Secure and Advanced Computer Architecture Research Group (SACA) at North Carolina State University (NCSU). I worked as Technical Research Personnel and Postdoc at the Inter-university Semiconductor Research Center (ISRC) at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. from the Department of Electrical and Computer Engineering at SNU in August 2021, under the guidance of Professor Hyuk-Jae Lee. I also received my B.S. from the same department at SNU in August 2016.
+I am a postdoctoral researcher at the Secure and Advanced Computer Architecture Research Group (SACA) at North Carolina State University (NCSU), being mentored by Professor Amro Awad. I worked as Technical Research Personnel and Postdoc at the Inter-university Semiconductor Research Center (ISRC) at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. from the Department of Electrical and Computer Engineering at SNU in August 2021, under the guidance of Professor Hyuk-Jae Lee. I also received my B.S. from the same department at SNU in August 2016.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -46,7 +46,6 @@ I am a postdoctoral researcher at the Secure and Advanced Computer Architecture 
 I am interested in disaggregated memory systems and their supportive technologies (e.g., security and cache-coherent interconnect). In my doctoral studies, I improved reliability and performance of phase-change memory (PCM) systems. Meanwhile, I developed highly accurate simulation platform targeted to non-volatile memory system. Also, I worked on an FPGA-based video processing hardware accelerator.
 
 # Visit
-- Email: hyokeun_lee[at]ncsu.edu
 - LinkedIn: [Link](https://kr.linkedin.com/in/hyokeunlee/en)
 - CV: [Link](https://github.com/harrylee365/harrylee365.github.io/blob/master/uploads/My_CV_hklee.pdf)
 
