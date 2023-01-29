@@ -31,8 +31,8 @@
   tlink: https://github.com/harrylee365/harrylee365.github.io/blob/master/uploads/DAC2020poster.pdf
   highlight: 1
 
-- title: "A Predictie Initialization of Hidden State Parameters in a Hidden Markov Model for Hand Gesture Recognition"
-  label: "[J8]"
+- title: "A Predictive Initialization of Hidden State Parameters in a Hidden Markov Model for Hand Gesture Recognition"
+  label: "[C1]"
   image:
   description:
   authors: <u>Hyokeun Lee</u>, Seungyong Lee, Byeongki Song, Moonsoo Kim Seokbo Shim, Hyuk-Jae Lee, Hyun Kim
