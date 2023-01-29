@@ -8,7 +8,7 @@ permalink: /
 
 # Biography
 
-I am a postdoctoral researcher at the Secure and Advanced Computer Architecture Research Group (SACA) at North Carolina State University (NCSU), being mentored by Professor Amro Awad. I worked as Technical Research Personnel and Postdoc at the Inter-university Semiconductor Research Center (ISRC) at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. from the Department of Electrical and Computer Engineering at SNU in August 2021, under the guidance of Professor Hyuk-Jae Lee. I also received my B.S. from the same department at SNU in August 2016.
+I am a postdoctoral researcher at the [Secure and Advanced Computer Architecture Research Group (SACA)](https://sacagroup.github.io) at North Carolina State University (NCSU), being mentored by Professor Amro Awad. I worked as a Technical Research Personnel at the [Inter-university Semiconductor Research Center (ISRC)](https://isrc.snu.ac.kr/english/htm) at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. from the Department of Electrical and Computer Engineering at SNU in August 2021, under the guidance of Professor Hyuk-Jae Lee. I also received my B.S. from the same department at SNU in August 2016.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
