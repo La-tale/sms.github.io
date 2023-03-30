@@ -67,6 +67,10 @@ permalink: /experience/
   - I joined this project on Sep. 2016
 
 # Professional Activities
+- **2023**
+  - Reviewer, IEEE Conference on Artificial Intelligence Circuits and Systems (AICAS) - 3 papers
+  - Reviewer, IEIE Transactions on Smart Processing and Computing - 1 paper
+
 - **2022**
   - Session Chair, The 40th IEEE International Conference on Computer Design (ICCD)
   - Program Committee, The 40th IEEE International Conference on Computer Design (ICCD) - 8 papers
