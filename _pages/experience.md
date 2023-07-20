@@ -9,6 +9,21 @@ permalink: /experience/
 # Project Experience
 
 ## Ongoing Research Projects
+- **Enabling Secure and Efficient Sharing of Accelerators in Expeditionary Systems**
+  - Development of secure hardware in an accelerator-rich architecture
+  - Development of secure GPU with CXL memory expansion
+  - Sponsor: Office of Naval Research, United States 
+  - Role: Research participant, mentoring students research
+
+- **Towards Secure, Crash Recoverable and High-Performance Memory Systems in Future Expeditionary Tactical Systems**
+  - Development of user-transparent secure compiler
+  - Sponsor: Office of Naval Research, United States
+  - Role: Research participant, mentoring students research
+
+- **Parallel Architecture for Native Data-Graph Analytics Operation**
+  - Development of high-performance and secure access control in disaggregated memory systems
+  - Sponsor: AMD Research, United States
+  - Role: Research participant, mentoring students research
 
 ## Past Research Projects
 - **Optimization of Type-3 Compute Express Link (CXL) Add-In Card (AIC) Memory**
@@ -68,6 +83,7 @@ permalink: /experience/
 
 # Professional Activities
 - **2023**
+  - Program Committee, The 41st IEEE International Conference on Computer Design (ICCD) - 6 papers
   - Reviewer, IEEE Conference on Artificial Intelligence Circuits and Systems (AICAS) - 3 papers
   - Reviewer, IEIE Transactions on Smart Processing and Computing - 1 paper
 

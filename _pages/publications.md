@@ -40,6 +40,13 @@ permalink: /publications/
 {% endfor %}
 
 
+## Talks
+{% for publi in site.data.publist_talk %}
+  {{ publi.label }} {{ publi.title }} <br />
+  <em>{{ publi.venue }}</em>, {{ publi.year }}
+{% endfor %}
+
+
 # Dissertation
 Mitigating Disturbance Errors and Enhancing RMW Performance for PCM <br />
 Ph.D. Dissertation, Seoul National University, Aug. 2021 <br />
