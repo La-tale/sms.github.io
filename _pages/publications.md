@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+# Publications (^ denotes co-first author)
 
 ## Submitted
 {% for publi in site.data.publist_submit %}
@@ -16,16 +16,16 @@ permalink: /publications/
 {% endfor %}
 
 
-## Journal Papers
-{% for publi in site.data.publist_journal %}
+## Conference Papers
+{% for publi in site.data.publist_conference %}
   {{ publi.label }} {{ publi.authors }} <br />
   <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
 {% endfor %}
 
 
-## Conference Papers
-{% for publi in site.data.publist_conference %}
+## Journal Papers
+{% for publi in site.data.publist_journal %}
   {{ publi.label }} {{ publi.authors }} <br />
   <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}

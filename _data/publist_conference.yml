@@ -1,3 +1,14 @@
+- title: "CryptoMMU: Enabling Secure and Scalable Access Control of Third-Party Accelerators"
+  label: "[C5]"
+  image:
+  description:
+  authors: Faiz Alam^, <u>Hyokeun Lee^</u>, Abhishek Bhattacharjee, Amro Awad (To Appear)
+  issue: IEEE/ACM International Symposium on Microarchitecture (MICRO) 
+  year: Oct. 2023
+  tier: "[Acceptance rate: 23.8%]"
+  highlight: 1
+
+
 - title: "PCMCsim: An Accurate Phase-Change Memory Controller Simulator and its Performance Analysis"
   label: "[C4]"
   image:

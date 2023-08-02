@@ -13,6 +13,7 @@ permalink: /experience/
   - Development of secure hardware in an accelerator-rich architecture
   - Development of secure GPU with CXL memory expansion
   - Sponsor: Office of Naval Research, United States 
+  - Related publications: [C5]
   - Role: Research participant, mentoring students research
 
 - **Towards Secure, Crash Recoverable and High-Performance Memory Systems in Future Expeditionary Tactical Systems**
