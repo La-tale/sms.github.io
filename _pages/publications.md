@@ -23,7 +23,6 @@ permalink: /publications/
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
 {% endfor %}
 
-
 ## Journal Papers
 {% for publi in site.data.publist_journal %}
   {{ publi.label }} {{ publi.authors }} <br />
