@@ -31,7 +31,7 @@ permalink: /experience/
   - Development of an in-house simulation platform for CXL memory devices
   - Characterizing the detailed performance of the CXL-attached system under various scenarios 
   - Sponsor: SK Hynix, South Korea (Feb. 2022 - Jan. 2023)
-  - Related publications: [S1]
+  - Related publications: [C6]
   - Role: Research participant
 
 - **Development of Open Convergence Memory Solution and Platform for Next-Generation Memories**

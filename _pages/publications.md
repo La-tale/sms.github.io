@@ -10,11 +10,12 @@ permalink: /publications/
 # Publications (^ denotes co-first author)
 
 ## Submitted
+<!--
 {% for publi in site.data.publist_submit %}
   {{ publi.label }} {{ publi.authors }} <br />
   <em>{{ publi.issue }}</em>, {{ publi.year }}
 {% endfor %}
-
+-->
 
 ## Conference Papers
 {% for publi in site.data.publist_conference %}
