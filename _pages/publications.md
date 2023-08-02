@@ -6,16 +6,15 @@ sitemap: false
 permalink: /publications/
 ---
 
-
-# Publications (^ denotes co-first author)
-
-## Submitted
 <!--
+# Submitted
 {% for publi in site.data.publist_submit %}
   {{ publi.label }} {{ publi.authors }} <br />
   <em>{{ publi.issue }}</em>, {{ publi.year }}
 {% endfor %}
 -->
+
+# Publications (^ denotes co-first author)
 
 ## Conference Papers
 {% for publi in site.data.publist_conference %}
@@ -31,7 +30,6 @@ permalink: /publications/
   <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
 {% endfor %}
-
 
 ## Patents
 {% for publi in site.data.publist_patent %}
