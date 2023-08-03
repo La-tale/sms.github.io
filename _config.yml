@@ -9,9 +9,11 @@
 title: Hyokeun Lee's webpage
 email: hyokeun_lee@ncsu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the HLEE.
+  Website of HLEE.
 baseurl: ""
-url: ""
+url: "https://harrylee365.github.io"
+author: "Hyokeun Lee"
+github_username: "harrylee365"
 
 include:
   - .htaccess
