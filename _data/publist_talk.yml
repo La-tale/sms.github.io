@@ -1,3 +1,14 @@
+
+- title: "Disaggregation and its Security for Large-Scale Computing Systems"
+  label: "[T5]"
+  year: Aug. 2023
+  venue: Korea University, South Korea
+
+- title: "CXL-enabled Sharing in a Multi-Host Disaggregated Memory System"
+  label: "[T4]"
+  year: Aug. 2023
+  venue: Seoul National University GoGE Workshop, South Korea
+
 - title: "Introduction to Computer Architecture Simulators and Use of Gem5"
   label: "[T3]"
   year: Mar. 2023
