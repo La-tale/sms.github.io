@@ -38,7 +38,7 @@ permalink: /publications/
 {% endfor %}
 
 
-## Talks
+## Lectures & Invited Talks
 {% for publi in site.data.publist_talk %}
   {{ publi.label }} {{ publi.title }} <br />
   <em>{{ publi.venue }}</em>, {{ publi.year }}

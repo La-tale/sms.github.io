@@ -96,6 +96,6 @@ permalink: /experience/
 
 - **2021**
   - Reviewer, Elsevier Materials Research Bulletin - 1 paper
-  - Reviewer, IEEE /IEIE  International Conference on Consumer Electronics Asia (ICCE-ASIA) - 20 papers
+  - Technical Program Committee, IEEE /IEIE  International Conference on Consumer Electronics Asia (ICCE-ASIA) - 20 papers
   - Reviewer, IEIE Transactions on Smart Processing and Computing - 1 paper
 

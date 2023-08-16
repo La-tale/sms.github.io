@@ -5,7 +5,7 @@
   authors: <u>Hyokeun Lee</u>, Kwanseok Choi, Hyuk-Jae Lee, Jaewoong Sim (To Appear)
   issue: International Conference on Parallel Architectures and Compilation Techniques (PACT)
   year: Oct. 2023
-  tier: "[Acceptance rate: 62.5%]"
+  tier: "[Top-Tier]"
   highlight: 1
 
 - title: "CryptoMMU: Enabling Secure and Scalable Access Control of Third-Party Accelerators"
@@ -15,7 +15,7 @@
   authors: Faiz Alam^, <u>Hyokeun Lee^</u>, Abhishek Bhattacharjee, Amro Awad (To Appear)
   issue: IEEE/ACM International Symposium on Microarchitecture (MICRO) 
   year: Oct. 2023
-  tier: "[Acceptance rate: 23.8%]"
+  tier: "[Top-Tier]"
   highlight: 1
 
 - title: "PCMCsim: An Accurate Phase-Change Memory Controller Simulator and its Performance Analysis"
