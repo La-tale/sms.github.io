@@ -1,3 +1,13 @@
+- title: "ERAS: A Flexible and Scalable Framework for Seamless Integration of RTL Models with Structural Simulation Toolkit"
+  label: "[C7]"
+  image:
+  description:
+  authors: Shubham Nema, Shiva Kaushik Chunduru, Charan Kodigal, Gwendolyn Voskuilen, Scott Hemmert, <u>Hyokeun Lee</u>, Amro Awad (To Appear)
+  issue: International Symposium on Workload Characterization (IISWC)
+  year: Oct. 2023
+  tier: "[Poster]"
+  highlight: 1
+
 - title: "SDM: Sharing-enabled Disaggregated Memory System with Cache Coherent Compute Express Link"
   label: "[C6]"
   image:
@@ -12,7 +22,7 @@
   label: "[C5]"
   image:
   description:
-  authors: Faiz Alam^, <u>Hyokeun Lee^</u>, Abhishek Bhattacharjee, Amro Awad (To Appear)
+  authors: Faiz Alam^, <u>Hyokeun Lee^</u>, Abhishek Bhattacharjee, Amro Awad (Accepted)
   issue: IEEE/ACM International Symposium on Microarchitecture (MICRO) 
   year: Oct. 2023
   tier: "[Top-Tier]"
