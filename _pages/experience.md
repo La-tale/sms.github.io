@@ -9,16 +9,19 @@ permalink: /experience/
 # Project Experience
 
 ## Ongoing Research Projects
+
+
+## Past Research Projects
 - **Enabling Secure and Efficient Sharing of Accelerators in Expeditionary Systems**
   - Development of secure hardware in an accelerator-rich architecture
   - Development of secure GPU with CXL memory expansion
-  - Sponsor: Office of Naval Research, United States 
+  - Sponsor: Office of Naval Research, United States (Feb. 2023 - Jan. 2024)
   - Related publications: [C5]
   - Role: Research participant, mentoring students research
 
 - **Towards Secure, Crash Recoverable and High-Performance Memory Systems in Future Expeditionary Tactical Systems**
   - Development of user-transparent secure compiler
-  - Sponsor: Office of Naval Research, United States
+  - Sponsor: Office of Naval Research, United States (Feb. 2023 - Jan. 2024)
   - Role: Research participant, mentoring students research
 
 - **Parallel Architecture for Native Data-Graph Analytics Operation**
@@ -26,7 +29,6 @@ permalink: /experience/
   - Sponsor: AMD Research, United States
   - Role: Research participant, mentoring students research
 
-## Past Research Projects
 - **Optimization of Type-3 Compute Express Link (CXL) Add-In Card (AIC) Memory**
   - Development of an in-house simulation platform for CXL memory devices
   - Characterizing the detailed performance of the CXL-attached system under various scenarios 

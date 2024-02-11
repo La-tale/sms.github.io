@@ -1,10 +1,21 @@
+- title: "Salus: Efficient Security Support for CXL-Expanded GPU Memory"
+  label: "[C8]" 
+  image: 
+  description:
+  authors: Rahaf Abdullah, <u>Hyokeun Lee</u>, Huiyang Zhou, Amro Awad
+  issue: International Symposium on High-Performance Computer Architecture (HPCA)
+  year: Mar. 2024
+  tier: "[Top-Tier]"
+  highlight: 1
+
 - title: "ERAS: A Flexible and Scalable Framework for Seamless Integration of RTL Models with Structural Simulation Toolkit"
   label: "[C7]"
   image:
   description:
-  authors: Shubham Nema, Shiva Kaushik Chunduru, Charan Kodigal, Gwendolyn Voskuilen, Scott Hemmert, <u>Hyokeun Lee</u>, Amro Awad (To Appear)
+  authors: Shubham Nema, Shiva Kaushik Chunduru, Charan Kodigal, Gwendolyn Voskuilen, Scott Hemmert, <u>Hyokeun Lee</u>, Amro Awad
   issue: International Symposium on Workload Characterization (IISWC)
   year: Oct. 2023
+  tlink: https://ieeexplore.ieee.org/document/10289370
   tier: "[Poster]"
   highlight: 1
 
@@ -12,9 +23,10 @@
   label: "[C6]"
   image:
   description:
-  authors: <u>Hyokeun Lee</u>, Kwanseok Choi, Hyuk-Jae Lee, Jaewoong Sim (To Appear)
+  authors: <u>Hyokeun Lee</u>, Kwanseok Choi, Hyuk-Jae Lee, Jaewoong Sim
   issue: International Conference on Parallel Architectures and Compilation Techniques (PACT)
   year: Oct. 2023
+  tlink: https://ieeexplore.ieee.org/document/10364602
   tier: "[Top-Tier]"
   highlight: 1
 
@@ -22,10 +34,11 @@
   label: "[C5]"
   image:
   description:
-  authors: Faiz Alam^, <u>Hyokeun Lee^</u>, Abhishek Bhattacharjee, Amro Awad (To Appear)
+  authors: Faiz Alam^, <u>Hyokeun Lee^</u>, Abhishek Bhattacharjee, Amro Awad
   issue: IEEE/ACM International Symposium on Microarchitecture (MICRO) 
   year: Oct. 2023
   tier: "[Top-Tier, Best Paper Candidate]"
+  tlink: https://dl.acm.org/doi/10.1145/3613424.3614311
   highlight: 1
 
 - title: "PCMCsim: An Accurate Phase-Change Memory Controller Simulator and its Performance Analysis"
