@@ -1,0 +1,44 @@
+- title: "Mitigating Write Disturbance Errors of Phase-Change Memory Module"
+  label: "[P4]"
+  image:
+  description:
+  inventors: Hyuk-Jae Lee, Hyun Kim, <u>Hyokeun Lee</u>, Moonsoo Kim
+  ptype: US Patent 
+  pnum: 11462266
+  year: Oct. 2022
+  status: "[Granted]"
+  highlight: 1
+
+- title: "Semiconductor Memory Device Performing Command Merging and Operating Method Thereof"
+  label: "[P3]"
+  image:
+  description:
+  inventors: Hyuk-Jae Lee, Hyun Kim, <u>Hyokeun Lee</u>, Moonsoo Kim
+  ptype: US Patent 
+  pnum: 11055025
+  year: July. 2021
+  status: "[Granted]"
+  highlight: 1
+
+- title: "Semiconductor Device for Managing Cold Addresses of Nonvolatile Memory Device"
+  label: "[P2]"
+  image:
+  description:
+  inventors: Hyuk-Jae Lee, Sunwoong Kim, Hyunmin Jung, <u>Hyokeun Lee</u>, Woojae Shin
+  ptype: US Patent 
+  pnum: 10877698
+  year: Dec. 2020
+  status: "[Granted]"
+  highlight: 1
+
+- title: "Semiconductor Device for Managing Wear Leveling Operation of a Nonvolatile Memory Device"
+  label: "[P1]"
+  image:
+  description:
+  inventors: Hyuk-Jae Lee, Sunwoong Kim, Hyunmin Jung, <u>Hyokeun Lee</u>, Woojae Shin
+  ptype: US Patent 
+  pnum: 10713259
+  year: July. 2020
+  status: "[Granted]"
+  highlight: 1
+

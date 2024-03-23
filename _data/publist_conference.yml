@@ -1,0 +1,87 @@
+- title: "Salus: Efficient Security Support for CXL-Expanded GPU Memory"
+  label: "[C8]" 
+  image: 
+  description:
+  authors: Rahaf Abdullah, <u>Hyokeun Lee</u>, Huiyang Zhou, Amro Awad
+  issue: International Symposium on High-Performance Computer Architecture (HPCA)
+  year: Mar. 2024
+  tier: "[Top-Tier]"
+  highlight: 1
+
+- title: "ERAS: A Flexible and Scalable Framework for Seamless Integration of RTL Models with Structural Simulation Toolkit"
+  label: "[C7]"
+  image:
+  description:
+  authors: Shubham Nema, Shiva Kaushik Chunduru, Charan Kodigal, Gwendolyn Voskuilen, Scott Hemmert, <u>Hyokeun Lee</u>, Amro Awad
+  issue: International Symposium on Workload Characterization (IISWC)
+  year: Oct. 2023
+  tlink: https://ieeexplore.ieee.org/document/10289370
+  tier: "[Poster]"
+  highlight: 1
+
+- title: "SDM: Sharing-enabled Disaggregated Memory System with Cache Coherent Compute Express Link"
+  label: "[C6]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Kwanseok Choi, Hyuk-Jae Lee, Jaewoong Sim
+  issue: International Conference on Parallel Architectures and Compilation Techniques (PACT)
+  year: Oct. 2023
+  tlink: https://ieeexplore.ieee.org/document/10364602
+  tier: "[Top-Tier]"
+  highlight: 1
+
+- title: "CryptoMMU: Enabling Secure and Scalable Access Control of Third-Party Accelerators"
+  label: "[C5]"
+  image:
+  description:
+  authors: Faiz Alam^, <u>Hyokeun Lee^</u>, Abhishek Bhattacharjee, Amro Awad
+  issue: IEEE/ACM International Symposium on Microarchitecture (MICRO) 
+  year: Oct. 2023
+  tier: "[Top-Tier, Best Paper Candidate]"
+  tlink: https://dl.acm.org/doi/10.1145/3613424.3614311
+  highlight: 1
+
+- title: "PCMCsim: An Accurate Phase-Change Memory Controller Simulator and its Performance Analysis"
+  label: "[C4]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Hyungsuk Kim, Seokbo Shim, Seungyong Lee, Hyuk-Jae Lee, Hyun Kim
+  issue: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+  year: May. 2022
+  tier: "[Acceptance rate: 28.9%]"
+  tlink: https://ieeexplore.ieee.org/document/9804665
+  highlight: 1
+
+- title: "Analysis of Hardware Prefetchers Suitable for CNN Applications"
+  label: "[C3]"
+  image:
+  description:
+  authors: Hyeong Gi Seong, <u>Hyokeun Lee</u>, Hyun Kim, Hyuk-Jae Lee
+  issue: IEEE/IEIE International Conference on Consumer Electronics-Asia (ICCE-Asia)
+  year: Nov. 2021
+  tier: ""
+  tlink: https://ieeexplore.ieee.org/document/9641920
+  highlight: 1
+
+- title: "IMDB: A Low-Cost In-Module Disturbance Barrier for Mitigating Write Disturbance Errors in Phase-Change Memory"
+  label: "[C2]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Seungyong Lee, Byeongki Song, Moonsoo Kim Seokbo Shim, Hyuk-Jae Lee, Hyun Kim
+  issue: the 57th Design Automation Conference (DAC, work-in-progress)
+  year: July. 2020
+  tier: ""
+  tlink: https://github.com/harrylee365/harrylee365.github.io/blob/master/uploads/DAC2020poster.pdf
+  highlight: 1
+
+- title: "A Predictive Initialization of Hidden State Parameters in a Hidden Markov Model for Hand Gesture Recognition"
+  label: "[C1]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee</u>, Seungyong Lee, Byeongki Song, Moonsoo Kim Seokbo Shim, Hyuk-Jae Lee, Hyun Kim
+  issue: IEEE/IEIE International Conference on Consumer Electronics (ICCE-Asia)
+  year: June. 2018
+  tier: ""
+  tlink: https://ieeexplore.ieee.org/document/8552159
+  highlight: 1
+
