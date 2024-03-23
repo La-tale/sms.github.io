@@ -1,5 +1,5 @@
 ---
-title: "HLEE - Home"
+title: "SMS - Home"
 layout: homelay
 excerpt: "Allan Lab at Leiden University."
 sitemap: false
@@ -8,7 +8,7 @@ permalink: /
 
 # Biography
 
-<!-- I will be working as an Assistant Professor of the Department of Electrical and Computer Engineering (ECE) at Ajou University in March 2024. I was a postdoctoral researcher at [Secure and Advanced Computer Architecture Research Group (SACA)](https://sacagroup.github.io), North Carolina State University (NCSU), and was mentored by Professor Amro Awad. I worked as a Technical Research Personnel at the [Inter-university Semiconductor Research Center (ISRC)](https://isrc.snu.ac.kr) at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. degree from ECE at SNU in August 2021, under the guidance of Professor [Hyuk-Jae Lee](https://capp.snu.ac.kr), and I also received my B.S. from SNU in August 2016. -->
+I am currently a PhD candidate at the [Computer Architecture and Parallel Processing Lab](http://capp.snu.ac.kr) (Prof. [Hyuk-Jae Lee](http://capp.snu.ac.kr/?p=people)) in the Department of Electrical and Computer Engineering at Seoul National University. I received my B.S. from SNU in Feburary 2020.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -43,11 +43,11 @@ permalink: /
 
 
 # Research Interests
-I am interested in disaggregated memory systems and their supportive technologies (e.g., security and cache-coherent interconnect). In my doctoral studies, I improved reliability and performance of phase-change memory (PCM) systems. Meanwhile, I developed highly accurate simulation platform targeted to non-volatile memory system. Also, I worked on an FPGA-based video processing hardware accelerator.
+I am interested in heterogeneous architectures with xPU (e.g., CPU, GPU, and NPU) and PIM and scalable system with it. Also, I worked on an neural network for computer vision.
 
 # Visit
-- LinkedIn: [Link](https://kr.linkedin.com/in/hyokeunlee/en)
-- CV: [Link](https://github.com/harrylee365/harrylee365.github.io/blob/master/uploads/My_CV_hklee.pdf)
+- LinkedIn: [Link](https://linkedin.com/in/minseok-seo-026a43258)
+<!-- - CV: [Link](https://github.com/harrylee365/harrylee365.github.io/blob/master/uploads/My_CV_hklee.pdf) -->
 
 <!--
 <figure class="fourth">
