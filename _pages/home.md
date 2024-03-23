@@ -8,7 +8,7 @@ permalink: /
 
 # Biography
 
-I will be working as an Assistant Professor of the Department of Electrical and Computer Engineering (ECE) at Ajou University in March 2024. I was a postdoctoral researcher at [Secure and Advanced Computer Architecture Research Group (SACA)](https://sacagroup.github.io), North Carolina State University (NCSU), and was mentored by Professor Amro Awad. I worked as a Technical Research Personnel at the [Inter-university Semiconductor Research Center (ISRC)](https://isrc.snu.ac.kr) at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. degree from ECE at SNU in August 2021, under the guidance of Professor [Hyuk-Jae Lee](https://capp.snu.ac.kr), and I also received my B.S. from SNU in August 2016.
+<!-- I will be working as an Assistant Professor of the Department of Electrical and Computer Engineering (ECE) at Ajou University in March 2024. I was a postdoctoral researcher at [Secure and Advanced Computer Architecture Research Group (SACA)](https://sacagroup.github.io), North Carolina State University (NCSU), and was mentored by Professor Amro Awad. I worked as a Technical Research Personnel at the [Inter-university Semiconductor Research Center (ISRC)](https://isrc.snu.ac.kr) at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. degree from ECE at SNU in August 2021, under the guidance of Professor [Hyuk-Jae Lee](https://capp.snu.ac.kr), and I also received my B.S. from SNU in August 2016. -->
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
