@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hyokeun Lee's webpage
-email: hyokeun_lee@ncsu.edu
+title: Minseok Seo's webpage
+email: sms0121@capp.snu.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
-  Website of HLEE.
+  Website of SMS.
 baseurl: ""
-url: "https://harrylee365.github.io"
-author: "Hyokeun Lee"
-github_username: "harrylee365"
+url: "https://sms.github.io"
+author: "Minseok Seo"
+github_username: "La-tale"
 
 include:
   - .htaccess
